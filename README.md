@@ -6,9 +6,10 @@ Projekt został opracowany podczas pracy w firmie **MEBLART** i jest nadal wykor
 
 ## Technologie  
 
-- **Java 17**  
-- **Java AWT**  
-- **Gradle**  
+- **Java 17** – główny język programowania użyty do stworzenia aplikacji
+- **Java AWT & Swing** - biblioteki do obsługi grafiki i interfejsu użytkownika
+- **Java I/O** – obsługa plików G-code i operacji wejścia/wyjścia
+- **Gradle** - narzędzie do zarządzania zależnościami i budowania aplikacji
 
 ## Instalacja  
 
